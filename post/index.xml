@@ -4,16 +4,24 @@
     <title>Posts on My New Hugo Site</title>
     <link>//localhost:1313/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2015 08:36:54 -0700</lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Oct 2015 08:36:54 -0700</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>se</title>
       <link>//localhost:1313/post/first/</link>
       <pubDate>Sun, 25 Oct 2015 08:36:54 -0700</pubDate>
+      
       <guid>//localhost:1313/post/first/</guid>
-      <description>Hello Hugo aaa bbb ccc </description>
+      <description>
+        
+          
+            Hello Hugo aaa bbb ccc 
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>
